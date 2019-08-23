@@ -1,6 +1,6 @@
 # factoreum
 Website for:
-- https://factoreum.com/
+- https://factoreum.com
 - https://www.factoreum.com
 - https://factoreum.netlify.com
 
